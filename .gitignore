@@ -1,0 +1,14 @@
+# Instructor materials — never commit
+EthicalHacking.jar
+*.jar
+database.db
+*.db
+*.key
+
+# Build / cache
+__pycache__/
+*.class
+*.pyc
+.venv/
+.idea/
+.DS_Store
